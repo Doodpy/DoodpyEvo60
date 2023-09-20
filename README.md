@@ -21,7 +21,7 @@ https://www.amazon.com/Modern-Findings-Solid-Copper-Round/dp/B00XHD03EA?crid=1LL
 (copper wire)
 https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ?crid=27YNR2HNNOTAC&keywords=in+4148+diode&qid=1663886818&sprefix=in+4148+diode,aps,126&sr=8-3&linkCode=sl1&tag=joescotto-20&linkId=8d0ac8a6c72fbd5e2fb206aa45384cae&language=en_US&ref_=as_li_ss_tl
 (diodes)
-Raspberry pi pico
+& a Raspberry pi pico
 (I think that's it for parts)
 ______________________________________________________________________
 
