@@ -25,7 +25,15 @@ https://www.amazon.com/100-Pieces-1N4148-Switching-High-Speed/dp/B079KJ91JZ?crid
 (I think that's it for parts)
 ______________________________________________________________________
 
+CODE FINISHED! If you're using a fresh raspberry pi pico that's good but otherwise you're going to want to access what I'm pretty sure is called the root
+of the device, you do this by holding the bootsel button and then plugging the pi into your pc at the same time as holding the button. Once you have access
+to the root you're going to want to put the adafruit-circuitpython thingy onto the device you can just copy it there's no special bs. Once you copy the file
+the device is going to disconnect and reconnect as "CIRCUITPY" this is good, the next step is to copy the boot.py, code.py, and kmk folder onto the device.
 
+WARNING: If at any point you need to restart with getting the code on the board I have provided a flash_nuke.uf2 file that you can put in the root of the pico
+to completely reset it.
+
+That should be it for the code, once my 3d printer arrives I should be okay to begin contructing everything.
 
 
 
